@@ -1,1 +1,4 @@
 photos
+vendor
+**/debug
+**/debug.test
